@@ -1,0 +1,54 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:CourseProj" x:Class="CourseProj.MainWindow"
+        Title="Image detector v 0.2.6" Height="555.581" Width="755.85" Background="#FF299942" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:PSODBDataSet x:Key="pSODBDataSet"/>
+        <CollectionViewSource x:Key="imgSetViewSource" Source="{Binding ImgSet, Source={StaticResource pSODBDataSet}}"/>
+        <CollectionViewSource x:Key="resultViewSource" Source="{Binding Result, Source={StaticResource pSODBDataSet}}"/>
+        <CollectionViewSource x:Key="sessionViewSource" Source="{Binding Session, Source={StaticResource pSODBDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource imgSetViewSource}">
+        <Menu Margin="0,0,0,489">
+            <MenuItem Header="About" Click="About"/>
+            <MenuItem Header="Help" Click="Help"/>
+            <MenuItem Header="Exit" Click="Exit"/>
+        </Menu>
+        <Button Click="ShowImage" Content="Show image" HorizontalAlignment="Left" Margin="623,473,0,0" VerticalAlignment="Top" Width="115" Height="42"/>
+        <Image x:Name="imageImage" Height="360" Margin="375,41,10,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="treshold" HorizontalAlignment="Left" Margin="400,473,0,0" VerticalAlignment="Top" Width="115" Height="42"/>
+        <Button Click="StartProcessing" Content="Start processing" HorizontalAlignment="Left" Margin="255,473,0,0" VerticalAlignment="Top" Width="115" Height="42"/>
+        <Button Click="OpenImageSet" Content="Choose image set" HorizontalAlignment="Left" Margin="10,473,0,0" VerticalAlignment="Top" Width="115" Height="42"/>
+        <DataGrid x:Name="resultDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource resultViewSource}}" Margin="10,41,378,358" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="idColumn" Binding="{Binding Id}" Header="Id" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="timeColumn" Binding="{Binding Time}" Header="Time" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="accuracyColumn" Binding="{Binding Accuracy}" Header="Accuracy" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="image_pathColumn" Binding="{Binding Image path}" Header="Image path" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="sessionIdColumn" Binding="{Binding SessionId}" Header="Session Id" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="imgSetDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="10,172,378,223" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="idColumn1" Binding="{Binding Id}" Header="Id" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="path_to_listColumn" Binding="{Binding Path to list}" Header="Path to list" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="number_of_imagesColumn" Binding="{Binding Number of images}" Header="Number of images" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="noise_ratingColumn" Binding="{Binding Noise rating}" Header="Noise rating" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="resolutionColumn" Binding="{Binding Resolution}" Header="Resolution" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="sessionDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource sessionViewSource}}" Margin="10,307,378,70" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="idColumn2" Binding="{Binding Id}" Header="Id" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="wColumn" Binding="{Binding w}" Header="w" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="c1Column" Binding="{Binding c1}" Header="c 1" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="c2Column" Binding="{Binding c2}" Header="c 2" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="tresholdColumn" Binding="{Binding treshold}" Header="treshold" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="imgSetIdColumn" Binding="{Binding ImgSetId}" Header="Img Set Id" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+
+</Window>

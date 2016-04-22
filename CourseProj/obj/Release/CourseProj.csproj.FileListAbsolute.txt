@@ -1,0 +1,88 @@
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\bin\Release\CourseProj.exe.config
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\bin\Release\PSODB.mdf
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\bin\Release\PSODB_log.ldf
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\bin\Release\CourseProj.exe
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\bin\Release\CourseProj.pdb
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.csprojResolveAssemblyReference.cache
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\MainWindow.g.cs
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\App.g.cs
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj_Content.g.cs
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj_MarkupCompile.cache
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj_MarkupCompile.lref
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\MainWindow.baml
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.g.resources
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.Properties.Resources.resources
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.csproj.GenerateResource.Cache
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.exe
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.pdb
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\AboutWindow.baml
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\HelpWindow.baml
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\AboutWindow.g.cs
+C:\Users\Арт\documents\visual studio 2013\Projects\CourseProj\CourseProj\obj\Release\HelpWindow.g.cs
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\bin\Release\PSODB.mdf
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\bin\Release\PSODB_log.ldf
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\bin\Release\CourseProj.exe.config
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\bin\Release\CourseProj.exe
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\bin\Release\CourseProj.pdb
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\CourseProj.csprojResolveAssemblyReference.cache
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\AboutWindow.baml
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\HelpWindow.baml
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\AboutWindow.g.cs
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\HelpWindow.g.cs
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\MainWindow.g.cs
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\App.g.cs
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\CourseProj_Content.g.cs
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\CourseProj_MarkupCompile.cache
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\CourseProj_MarkupCompile.lref
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\MainWindow.baml
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\CourseProj.g.resources
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\CourseProj.Properties.Resources.resources
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\CourseProj.csproj.GenerateResource.Cache
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\CourseProj.exe
+C:\Users\Zuum\Desktop\CourseProj\CourseProj\obj\Release\CourseProj.pdb
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\bin\Release\CourseProj.exe.config
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.exe
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.pdb
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\bin\Release\PSODB.mdf
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\bin\Release\PSODB_log.ldf
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\bin\Release\CourseProj.exe
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\bin\Release\CourseProj.pdb
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.csprojResolveAssemblyReference.cache
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\AboutWindow.baml
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\HelpWindow.baml
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\AboutWindow.g.cs
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\HelpWindow.g.cs
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\MainWindow.g.cs
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\App.g.cs
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj_Content.g.cs
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj_MarkupCompile.cache
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj_MarkupCompile.lref
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\MainWindow.baml
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.g.resources
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.Properties.Resources.resources
+C:\Users\Zuum\Documents\Visual Studio 2013\Projects\CourseProj\CourseProj\obj\Release\CourseProj.csproj.GenerateResource.Cache
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\bin\Release\CourseProj.exe.config
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\CourseProj.exe
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\CourseProj.pdb
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\bin\Release\PSODB.mdf
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\bin\Release\PSODB_log.ldf
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\bin\Release\CourseProj.exe
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\bin\Release\CourseProj.pdb
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\CourseProj.csprojResolveAssemblyReference.cache
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\AboutWindow.baml
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\HelpWindow.baml
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\AboutWindow.g.cs
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\HelpWindow.g.cs
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\MainWindow.g.cs
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\App.g.cs
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\CourseProj_Content.g.cs
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\CourseProj_MarkupCompile.cache
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\CourseProj_MarkupCompile.lref
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\MainWindow.baml
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\CourseProj.g.resources
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\CourseProj.Properties.Resources.resources
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\obj\Release\CourseProj.csproj.GenerateResource.Cache

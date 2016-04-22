@@ -1,0 +1,5 @@
+﻿4 20 323x242
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\a1337ec8c7ec8506b6a108ea9e_4f52057e.jpg
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\a1337ec8c7ec8506b6a108ea9e_4f52057e25%white.jpg
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\a1337ec8c7ec8506b6a108ea9e_4f52057e50%white.jpg
+C:\Users\Zuum\Desktop\Курсач\3 курс, PSO\CourseProj\CourseProj\a1337ec8c7ec8506b6a108ea9e_4f52057eGaussedDiffused.jpg

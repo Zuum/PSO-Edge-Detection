@@ -1,0 +1,9 @@
+﻿<Window x:Class="CourseProj.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HelpWindow" Height="142.554" Width="344.681">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Use &quot;Chose Image set&quot; button to choose file which contains pathes to images what u want to process&quot;. Then press &quot;Start processing&quot; to process it. Image set file format is: first line - images count, noise rating, resolution; Next lines - pathes. To show some image press &quot;Show image&quot;. " VerticalAlignment="Top" Height="136" Width="317"/>
+
+    </Grid>
+</Window>

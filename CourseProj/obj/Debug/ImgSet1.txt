@@ -1,0 +1,6 @@
+5 0 256x256
+C:\\Users\\Арт\\Documents\\Visual Studio 2013\\Projects\\CourseProj\\CourseProj\\Windows_logo.png
+C:\\Users\\Арт\\Documents\\Visual Studio 2013\\Projects\\CourseProj\\CourseProj\\lena.png
+C:\\Users\\Арт\\Documents\\Visual Studio 2013\\Projects\\CourseProj\\CourseProj\\donkey-256x256.png
+C:\\Users\\Арт\\Documents\\Visual Studio 2013\\Projects\\CourseProj\\CourseProj\\Gears-of-War-Skull-2-256x256.png
+C:\\Users\\Арт\\Documents\\Visual Studio 2013\\Projects\\CourseProj\\CourseProj\\shark.png
